@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Documents\\Programacion\\.NET\\TiendaOnlineMVC\\CapaPresentacion\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
       "Id": "D:\\Documents\\Programacion\\.NET\\TiendaOnlineMVC\\CapaPresentacion\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xkazLN6VfBTdDEA9Fqpdu421NK6TmfyGttqlACLRpAo=",
+  "Hash": "TIAZMFGAsJB5lI18N4n3VpM4DapZqaUK8ipYKVTXHts=",
   "Source": "CapaPresentacionAdmin",
   "BasePath": "_content/CapaPresentacionAdmin",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Documents\\Programacion\\.NET\\TiendaOnlineMVC\\CapaPresentacion\\wwwroot\\js\\scripts.js",
+      "SourceId": "CapaPresentacionAdmin",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Documents\\Programacion\\.NET\\TiendaOnlineMVC\\CapaPresentacion\\wwwroot\\",
+      "BasePath": "_content/CapaPresentacionAdmin",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
     },
     {
       "Identity": "D:\\Documents\\Programacion\\.NET\\TiendaOnlineMVC\\CapaPresentacion\\wwwroot\\js\\site.js",
