@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Documents\Programacion\.NET\TiendaOnlineMVC\CapaPresentacion
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Documents/Programacion/.NET/TiendaOnlineMVC/CapaPresentacion/Pages/Categorias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmlhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Documents/Programacion/.NET/TiendaOnlineMVC/CapaPresentacion/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -24,12 +28,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Programacion/.NET/TiendaOnlineMVC/CapaPresentacion/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[D:/Documents/Programacion/.NET/TiendaOnlineMVC/CapaPresentacion/Pages/Marcas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFyY2FzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Programacion/.NET/TiendaOnlineMVC/CapaPresentacion/Pages/Productos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Documents/Programacion/.NET/TiendaOnlineMVC/CapaPresentacion/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/Programacion/.NET/TiendaOnlineMVC/CapaPresentacion/Pages/Usuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXN1YXJpb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Documents/Programacion/.NET/TiendaOnlineMVC/CapaPresentacion/Pages/_ViewImports.cshtml]

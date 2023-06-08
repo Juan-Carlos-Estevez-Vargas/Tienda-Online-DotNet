@@ -6,4 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\Documents\Programacion\.NET\TiendaOnlineMVC\CapaPresentacion\Pages\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\Documents\Programacion\.NET\TiendaOnlineMVC\CapaPresentacion\Pages\.editorconfig" />
+  </ItemGroup>
+
 </Project>

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace CapaPresentacionAdmin.Pages
 {
-    public class IndexModel : PageModel
+    public class MarcasModel : PageModel
     {
         public void OnGet()
         {
